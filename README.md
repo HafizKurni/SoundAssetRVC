@@ -6,6 +6,7 @@ This project is part of a thesis focused on Retrieval-based Voice Conversion (RV
 ## 💾 **Dataset Goblin Voice**
 The dataset that I use is from scraping audio of anime Goblin Slayer season 1 and 2.
 You can access the dataset used for training and evaluation here:
+
 [Goblin Voice Dataset](https://drive.google.com/file/d/1piIAGw8rPlO03f0ywvFIkJwYfYrT5Nln/view?usp=sharing)
 
 ## 📊 **Evaluation Metrics**
@@ -17,6 +18,7 @@ You can access the dataset used for training and evaluation here:
 
 ## 🎙 **Result Voice Conversion** 
 You can listen to sample outputs of the voice conversion here:
+
 [Goblin Voice Conversion](https://drive.google.com/drive/folders/1Y_J2XN6E8X2b0L_Cyd0Md5bK3nvVfNsB?usp=sharing)
 
 ## 🚀 **How to Run the Program**
