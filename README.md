@@ -1,7 +1,7 @@
 # Penerapan Retrieval Voice Conversion untuk Membangun Aset Suara Karakter Monster pada Game
 
 ## 📚 **Project Overview**
-This project is part of a thesis focused on Retrieval-based Voice Conversion (RVC) to generate monster character voice assets for games.
+This project is part of a thesis focused on [Retrieval-based Voice Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) (RVC) to generate monster character voice assets for games.
 
 ## 💾 **Dataset Goblin Voice**
 The dataset that I use is from scraping audio of anime Goblin Slayer season 1 and 2.
