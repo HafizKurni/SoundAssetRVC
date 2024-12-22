@@ -30,10 +30,9 @@ You can listen to sample outputs of the voice conversion here:
 6. The app will be open as web application.
 
 ## 📬 **Contact**
-Program RVC Asset Sound Generation from Hafiz Muhammad Kurniawan
 For questions or collaborations, reach out to: **[kurni.hafiz2002@gmail.com]**
-
 ---
+Program RVC Asset Sound Generation from Hafiz Muhammad Kurniawan
 
 Thank you for exploring this project! 🎵🎮🚀
 
