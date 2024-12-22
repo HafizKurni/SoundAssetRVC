@@ -1,0 +1,6 @@
+pip uninstall ffmpeg ffmpeg-python python-ffmpeg
+pip uninstall ffmpeg-python
+pip uninstall python-ffmpeg
+
+pip install ffmpeg-python
+
