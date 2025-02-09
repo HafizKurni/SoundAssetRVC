@@ -25,9 +25,10 @@ You can listen to sample outputs of the voice conversion here:
 1. Clone the repository.
 2. Create virtual enviorment
 3. Install dependencies from `requirements-py30819.txt`.
-4. Download a model file and put inside assets folder. [Download Model Assets](https://drive.google.com/file/d/1pVKmRoe79pRHC_3qrr574XNogqctdRkv/view?usp=sharing)
-5. Just run the app `python -u "infer-webV3Clean.py"`
-6. The app will be open as web application.
+4. Install FFmpeg MacOS (brew install ffmpeg) and Windows [Download Ffmpeg](https://ffmpeg.org/download.html)
+5. Download a model file and put inside assets folder. [Download Model Assets](https://drive.google.com/file/d/1pVKmRoe79pRHC_3qrr574XNogqctdRkv/view?usp=sharing)
+6. Just run the app `python -u "infer-webV3Clean.py"`
+7. The app will be open as web application.
 
 ## 📬 **Contact**
 For questions or collaborations, reach out to: **[kurni.hafiz2002@gmail.com]**
